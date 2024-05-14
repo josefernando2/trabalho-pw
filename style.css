@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(236, 169, 221);
+}
+
+header{
+   text-align: center;
+}
+
+section{
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 2px 2px rgba(0, 0, 0, 0.445);
+}
+
+#txt{
+    text-align: center;
+    padding: 50px;
+}
+
+#img{
+    
+    height: 100%;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#crianca{
+    margin: 0 auto;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
+
+#tarde{
+    margin: 0 auto;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
+
+#noite{
+    margin: 0 auto;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
